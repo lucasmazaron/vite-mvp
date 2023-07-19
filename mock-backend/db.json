@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "asdasda-d2d2d1-adsad-w12312",
+      "name": "Lucas Mazaron",
+      "status": "Ativo"
+    },
+    {
+      "id": "asdasda-d2dxxxxd1-adsad-efe",
+      "name": "Cristiano Ronaldo",
+      "status": "Ativo"
+    },
+    {
+      "id": "asdasda-asda-adsad-zzz",
+      "name": "Pedro Sampaio",
+      "status": "Ativo"
+    },
+    {
+      "id": "asdasda-3ee2-adsad-sds",
+      "name": "Maria Gasolina",
+      "status": "Inativo"
+    }
+  ]
+}
