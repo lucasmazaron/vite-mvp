@@ -8,7 +8,6 @@ export interface User {
 
 export function useUserList() {
   const url = `${import.meta.env.VITE_BACKEND_BASE_URL}/users`;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [ users, setUsers ] = useState<User[]>();
 
   useEffect(()=> {
